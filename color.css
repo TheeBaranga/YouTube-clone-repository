@@ -1,0 +1,13 @@
+img {
+    width: 32%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    }
+body {
+    background-color: rgb(15, 15, 15);
+    }
