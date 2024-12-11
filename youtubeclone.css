@@ -3,6 +3,9 @@
     width: 100%;
     position: relative;
 }
+.video-grid {
+    padding: 20px;
+}
 .video-time {
     background-color: black;
     color: white;
