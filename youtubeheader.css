@@ -144,6 +144,7 @@ button{
 }
 .sidebar-link:hover {
     background-color: gray;
+    cursor: pointer;
 }
 .sidebar-link img {
     height: 24px;
