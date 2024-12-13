@@ -49,3 +49,27 @@
 .video-author {
     margin-bottom: 3px;
 }
+
+
+
+
+.channel-tooltip {
+    position: relative;
+}
+.channel-tooltip-container {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    padding: 10px;
+    white-space: none;
+    background-color: rgb(255, 255, 255);
+    white-space: nowrap;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 2px #020202ab;
+    z-index: 500;
+    opacity: 0;
+}
+.channel-tooltip-container:hover {
+    opacity: 1;
+    cursor: pointer;
+}
